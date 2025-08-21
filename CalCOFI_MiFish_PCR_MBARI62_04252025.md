@@ -88,7 +88,7 @@ pcr_cycles: 38
 
 # BACKGROUND
 
-This protocol describes steps for performing PCR for the 12S MiFish marker gene region using eDNA extracted from sea water. 
+This protocol describes steps for performing PCR for the 12S MiFish marker gene region using eDNA extracted from sea water. It was developed by the Biological Oceanography Group at the Monterey Bay Aquarium Research Institute (MBARI).
 
 ## Summary
 
